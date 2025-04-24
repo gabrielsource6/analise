@@ -1,6 +1,17 @@
-tipos de pizza {
+.tiposdepizza {
 
  position: center;
+ width: 100%;
+ display: flex;
+
  
 }
 
+.pizzas {
+  position: center;
+  width: 100%;
+  height: 350px; 
+  display: flex;
+}
+
+   
